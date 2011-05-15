@@ -1,0 +1,39 @@
+{
+    "name" : "TokyoTyrant",
+    "keywords": [
+        "Tokyo Tyrant"
+    ],
+    "description": "Tokyo Tyrant client for node.js",
+    "homepage": "http://github.com/mah0x211/node-tokyotyrant",
+    "version" : "0.0.1",
+    "licenses" : [
+        {
+            "type": "MIT" 
+        } 
+    ],
+    "main" : "./lib/TokyoTyrant",
+    "directories" : {
+        "lib" : "./lib" 
+    },
+    "dependencies": {
+        "BufferIO": ">= 0.0.1"
+    },
+    "engines" : {
+        "node" : ">= 0.4.0" 
+    },
+    "maintainers": [
+        {
+            "name": "Masatoshi Teruya",
+            "email": "mah0x211@gmail",
+            "web": "http://kontext.jp/" 
+        } 
+    ],
+    "repository": {
+        "type" : "git",
+        "url": "http://github.com/mah0x211/node-tokyotyrant.git" 
+    },
+    "bugs" : {
+        "mail" : "" ,
+        "web" : "http://github.com/mah0x211/node-tokyotyrant/issues" 
+    }
+}
