@@ -16,7 +16,7 @@
         "lib" : "./lib" 
     },
     "dependencies": {
-        "BufferIO": ">= 0.0.1"
+        "BufferIO": ">= 0.0.2"
     },
     "engines" : {
         "node" : ">= 0.4.0" 
